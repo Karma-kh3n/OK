@@ -25,6 +25,6 @@ except KeyError:
 if __name__ == "__main__":
 	os.system("git pull")
 	if "Nigeria" == fc:
-		__import__("XCARET").Main()
+		__import__("DATU").Main()
 	else:
-		__import__("XCARET").Main()
+		__import__("DATU").Main()
