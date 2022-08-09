@@ -1,9 +1,0 @@
-ip,anonymityLevel,asn,country,isp,latency,org,port,protocols,responseTime,speed,updated_at
-"197.255.255.126","elite","AS37521","NG","Internet Solutions Nigeria Limited","128","ISN(Nova)","10808","socks4","N/A","500","2022-06-17T19:03:06.058Z"
-"105.235.201.86","elite","AS37269","NG","Information Connectivity Solutions Limited","N/A","N/A","41475","socks4","N/A","599","2022-06-17T13:12:10.980Z"
-"197.156.240.66","elite","AS30988","NG","Accelon","104","Krestal Laurel","5678","socks4","N/A","448","2022-06-17T07:09:32.477Z"
-"41.58.136.94","elite","AS36923","NG","Swift Networks Limited","N/A","N/A","5678","socks4","273","1","2022-06-17T07:05:02.096Z"
-"41.216.175.214","elite","AS37088","NG","VDT COMMUNICATIONS LIMITED","125","Customer Nnpc Medical Ikoyi","4673","socks4","193","1","2022-06-17T07:04:56.524Z"
-"197.157.219.169","elite","AS36920","NG","KKONTECH","106","N/A","4145","socks4","N/A","5207","2022-06-17T07:04:33.276Z"
-"154.113.161.129","elite","AS37282","NG","Mainone Cable Company","125","Mainone Cable Company","5678","socks4","176","1","2022-06-17T07:04:01.335Z"
-"169.239.236.101","elite","AS327986","NG","Gutti Global Networks","153","Gutti Global Networks","10801","socks4","920","581","2022-06-17T07:03:16.937Z"
