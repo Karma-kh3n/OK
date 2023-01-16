@@ -29,7 +29,7 @@ git pull
 
 ```
 #### RESULTS CRACK FB:
-![template_s](https://github.com/Karma-kh3n/SUPREME/blob/main/Screenshot_20220306-221205_Gallery.jpg)
+![template_s](https://github.com/Karma-kh3n/OK/blob/main/IMG-20230116-WA0053.jpg)
 * Notice me: *LEGENDARY BOT*
 #### MY SOCIAL MEDIA
 
